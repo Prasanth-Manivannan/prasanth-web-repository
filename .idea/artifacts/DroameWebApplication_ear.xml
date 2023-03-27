@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="DroameWebApplication:ear">
+    <output-path>$PROJECT_DIR$/out/artifacts/DroameWebApplication_ear</output-path>
+    <root id="archive" name="DroameWebApplication_ear.ear">
+      <element id="artifact" artifact-name="DroameWebApplication:ear exploded" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
